@@ -4,6 +4,7 @@
 #
 version: 0.2
 apiversion: 3
+architectures: armv7 arm64 i386 x86_64
 description: Parallax HeaderView for the Titanium ListView
 author: James Chow
 license: MIT
